@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
   const contactInfo = {
     phone: '01742707060',
     email: 'bauphaldigitalnet@gmail.com',
-    address: 'Baufol Barishal',
+    address: 'Bauphal, Barishal.',
   };
 
   return (
@@ -74,7 +74,7 @@ const Footer: React.FC = () => {
               <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center mr-3">
                 <span className="font-bold text-white">ISP</span>
               </div>
-              <span className="text-xl font-bold">NetConnect</span>
+              <span className="text-xl font-bold">Bauphaldigitalnet</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Providing reliable high-speed internet services to homes and businesses since 2010. 
