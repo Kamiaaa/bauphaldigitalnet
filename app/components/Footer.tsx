@@ -58,9 +58,9 @@ const Footer: React.FC = () => {
   ];
 
   const contactInfo = {
-    phone: '1-800-ISP-HELP',
-    email: 'support@yourisp.com',
-    address: '123 Tech Street, City, State 12345',
+    phone: '01742707060',
+    email: 'bauphaldigitalnet@gmail.com',
+    address: 'Baufol Barishal',
   };
 
   return (
