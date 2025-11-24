@@ -62,7 +62,7 @@ const EllipseCarousel = () => {
   return (
     <div className="w-full mx-auto">
       {/* Main Carousel Container - No rounded corners, only clip-path */}
-      <div className="relative h-[600px] overflow-hidden">
+      <div className="relative h-[500px] overflow-hidden">
         {carouselItems.map((item, index) => (
           <div
             key={item.id}
