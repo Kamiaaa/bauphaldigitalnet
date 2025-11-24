@@ -39,7 +39,7 @@ export default function Services() {
                                 </div>
                             </div>
 
-                            <h3 className="text-2xl font-bold text-center text-gray-800 dark:text-white mb-2">Basic Plan (সাধারন) ৫  Mbps</h3>
+                            <h3 className="text-2xl font-bold text-center text-gray-800 dark:text-white mb-2">Basic Plan (সাধারন)   Mbps</h3>
 
                             <div className="space-y-3 mb-6">
                                 <div className="flex items-center">
@@ -48,7 +48,7 @@ export default function Services() {
                                 </div>
                                 <div className="flex items-center">
                                     <i className="fas fa-check text-blue-400 mr-3"></i>
-                                    <span className="text-gray-600 dark:text-gray-300">স্পিড: ৫ Mbps (Unlimited)</span>
+                                    <span className="text-gray-600 dark:text-gray-300">স্পিড: ১০ Mbps (Unlimited)</span>
                                 </div>
                                 <div className="flex items-center">
                                     <i className="fas fa-check text-blue-400 mr-3"></i>
@@ -86,7 +86,7 @@ export default function Services() {
                                 </div>
                             </div>
 
-                            <h3 className="text-2xl font-bold text-center text-gray-800 dark:text-white mb-2">Standard Plan – ১০ Mbps</h3>
+                            <h3 className="text-2xl font-bold text-center text-gray-800 dark:text-white mb-2">Standard Plan – ২০ Mbps</h3>
 
                             <div className="space-y-3 mb-6">
                                 <div className="flex items-center">
@@ -134,7 +134,7 @@ export default function Services() {
                                 </div>
                             </div>
 
-                            <h3 className="text-2xl font-bold text-center text-gray-800 dark:text-white mb-2">Premium Plan – ২০ Mbps</h3>
+                            <h3 className="text-2xl font-bold text-center text-gray-800 dark:text-white mb-2">Premium Plan – ৩০ Mbps</h3>
 
                             <div className="space-y-3 mb-6">
                                 <div className="flex items-center">
